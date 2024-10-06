@@ -1,5 +1,5 @@
 public class update {
     public static void greeting() {
-        System.out.println("hi");
+        System.out.println("hi 2");
     }
 }
